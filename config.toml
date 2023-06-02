@@ -1,7 +1,7 @@
 baseURL = "https://www.physiostirixis.gr/"
 languageCode = "en-us"
 title = "Physiostirixis Κέντρο Φυσικοθεραπείας"
-theme = "/Users/fotis/Desktop/Physio/hero_local/PhysioLocal/themes/hugo-hero-theme"
+theme = "hugo-hero-theme"
 
 [module]
   [module.hugoVersion]
