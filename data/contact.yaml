@@ -1,0 +1,28 @@
+email: 'info@physiostirixis.gr'
+phone: '26710 92893'
+businessName: 'Physio Stirixis'
+address: |
+  Ευαγγέλου Μπασιά 29
+  Ληξούρι, Κεφαλονιάς 28200
+hours:
+  - day: Δευτέρα
+    open: 9:00πμ
+    close: 2:00μμ
+  - day: Τρίτη
+    open: 9:00πμ
+    close: 2:00μμ
+  - day: Τετάρτη
+    open: 9:00πμ
+    close: 2:00μμ
+  - day: Πέμπτη
+    open: 9:00πμ
+    close: 2:00μμ
+  - day: Παρασκευή
+    open: 9:00πμ
+    close: 2:00μμ
+  - day: Σάββατο
+    open: Κλειστά
+    close:
+  - day: Κυριακή
+    open: Κλειστά
+    close:
