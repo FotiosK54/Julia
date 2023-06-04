@@ -32,28 +32,28 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Εξοπλισμός"
+	name = "ΕΞΟΠΛΙΣΜΟΣ"
 	url = "/services/"
-    weight = 1
-
-[[menu.main]]
-    name = "Παθήσεις"
-    url = "/work/"
     weight = 2
 
 [[menu.main]]
-    name = "Πελματογράφος"
+    name = "ΠΑΘΗΣΕΙΣ"
+    url = "/work/"
+    weight = 1
+
+[[menu.main]]
+    name = "ΠΕΛΜΑΤΟΓΡΑΦΟΣ"
     url = "/about/"
     weight = 3
 
 
 [[menu.main]]
-    name = "Βιογραφικό"
+    name = "ΘΕΡΑΠΕΙΑ TECAR"
     url = "/history/"
     weight = 4
 
 [[menu.main]]
-    name = "Επικοινωνία"
+    name = "ΕΠΙΚΟΙΝΩΝΙΑ"
     url = "/contact/"
     weight = 5
 

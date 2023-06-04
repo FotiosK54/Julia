@@ -1,11 +1,11 @@
 ---
-title: 'Giving Back'
+title: 'Κλείστε Ραντεβού Άμεσα'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
 background: ''
 align: right
-button: 'Contact Us'
+button: 'Ραντεβου'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+Μην μένεις στιγμή με τα ποδαράκια σας στραβά
