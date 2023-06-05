@@ -5,8 +5,8 @@ icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'Χώρος Κινησιοθεραπείας'
+heroSubHeading: 'Προσφέρουμε μια ξεχωριστή εμπειρία'
 heroBackground: 'services/service1.jpg'
 ---
 

@@ -9,7 +9,7 @@ heroBackground: 'https://source.unsplash.com/1600x900/?architecture'
 image: 'work/work1.jpg'
 ---
 
-Η Δουλεια Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
+Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 

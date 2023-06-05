@@ -5,8 +5,8 @@ icon: "services/service-icon-1.png"
 featured: true
 draft: false
 weight: 100
-heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
+heroHeading: 'Εξοπλισμός'
+heroSubHeading: 'Σύγχρονος και ανανεωμένος εξοπλισμός'
 heroBackground: 'services/service1.jpg'
 ---
 
