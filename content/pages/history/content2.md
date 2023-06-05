@@ -1,9 +1,16 @@
 ---
-title: 'Integrity & Performance'
+title: 'Τρόποι Λειτουργίας'
 weight: 2
 date: 2018-12-06T09:29:16+10:00
 background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+
+Capacitive
+
+Η Λειτουργία Capacitive στηρίζεται σε ένα ηλεκτρόδιο με ειδική επίστρωση μόνωσης προκειμένου με αυτόν τον τρόπο η ενέργεια να απορροφάται από το μυϊκό οστό και ανατομικές με μεγάλη περιεκτικότητα σε νερό. !! Τροποιώντας κατάλληλα τη συχνότητα μπορούμε να αλλάξουμε το βάθος απορρόφησης και με αυτό τον τρόπο να στεχεύσουμε διαφορετικές μυϊκές ομάδες, προσφέροντας αναλγυσία και επούλωση.
+
+Recistive
+
+Αντίθετα με την Capacitive, χρησιμοποίεται ηλεκτρόδιο ώστε ανατομικές περιοχές με μικρή περιεκτικότητα σε νερό όπως τα οστά ή οι τένοντες να δημιουργούν αντίσταση στο πεδίο και να απορροφούν την ενέργεια. Ο συνδιασμός του Recistive με τεχνικές κινητοποίησης των αρθώσεων αυξάνει το έυρος κίνησης της άρθωσης και της ελαστικότητας μόλις από την πρώτη θεραπεία. 
