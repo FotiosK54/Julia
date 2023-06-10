@@ -7,8 +7,7 @@ heroHeading: 'Modern Hospital Design'
 heroSubHeading: 'ΑΠΟ ΑΘΛΗΣΗ ΠΡΟΒΛΗΜΑΤΑΣ'
 heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
 thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: ['technics/ergo3.jpg', 'technics/ergo2.JPG', 'technics/ergo1.JPG']
 ---
 
 Η θεραπευτική άσκηση είναι μία φυσικοθεραπευτική παρέμβαση που περιλαμβάνει ένα ευρύ φάσμα δραστηριοτήτων που αποσκοπούν στην αποκατάσταση ή βελτίωση της μυοσκελετικής, καρδιοαναπνευστικής και νευρολογικής λειτουργίας χωρίς να επιδεινώνουν το πρόβλημα του ασθενή. Η πλειοψηφία των περιστατικών που θα απευθυνθούν για θεραπεία στο φυσικοθεραπευτήριο θα χρειαστεί να ακολουθήσουν κάποιο πρόγραμμα άσκησης. Επίσης αρκετοί άνθρωποι θέλουν να γυμναστούν αλλά φοβούνται πως κάνοντας από μόνοι τους κάποιο είδος άσκησης ή αθλήματος θα επιφέρουν στο σώμα τους καταπόνηση ή θα διαταράξουν ένα υπάρχον μυοσκελετικό πρόβλημα.

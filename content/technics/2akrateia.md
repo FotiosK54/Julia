@@ -7,8 +7,7 @@ heroHeading: 'Modern Hospital Design'
 heroSubHeading: 'Designing a new modern hospital wing'
 heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
 thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: ['technics/akr1.png', 'technics/akr2.jpg']
 ---
 
 Η ακράτεια ούρων είναι η ακούσια απώλεια ούρων σε ακατάλληλη χρονική στιγμή που μπορεί να συμβαίνει και σε δημόσια μέρη. Μπορεί να προκαλεί κοινωνικά προβλήματα στον πάσχοντα καθώς έχει να αντιμετωπίσει οσμές, ερεθισμούς δέρματος και βρεγμένα ρούχα και να τον οδηγήσει σε απομόνωση, αλλά και προβλήματα υγείας (δερματίτιδες, λοιμώξεις). Δεν είναι ασθένεια αλλά ένα σύμπτωμα πολλών διαταραχών του ουροποιητικού συστήματος.

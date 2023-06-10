@@ -7,8 +7,7 @@ heroHeading: 'Modern Hospital Design'
 heroSubHeading: 'ΑΠΟ ΑΘΛΗΣΗ ΠΡΟΒΛΗΜΑΤΑΣ'
 heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
 thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
-images: ['https://source.unsplash.com/random/400x600/?nature', 
-'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
+images: ['technics/tapp1.jpg', 'technics/tapp2.jpg']
 ---
 
 Το Taping είναι μία θεραπευτική μέθοδος περίδεσης με ειδικές ταινίες σταθεροποίησης που χρησιμοποιείται σαν μέσο προφύλαξης και θεραπείας. Έχει ευρεία χρήση στον αθλητισμό για την αποκατάσταση αλλά και την πρόληψη των τραυματισμών καθώς προστατεύει και σταθεροποιεί την άρθρωση, υποβοηθώντας την λειτουργία των συνδεσμικών δομών.

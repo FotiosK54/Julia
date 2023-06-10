@@ -5,3 +5,4 @@ heroHeading: 'Physio Stirixis Κέντρο Φυσικοθεραπείας'
 heroSubHeading: 'Καλως ήλθατε στον καινούργιο ιστότοπο του φυσικοθεραπευτηρίου μας.'
 heroBackground: 'images/jason-blackeye-1191801-unsplash.jpg'
 ---
+
