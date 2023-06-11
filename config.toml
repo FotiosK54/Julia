@@ -12,10 +12,10 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "static/logomob.png"
+    mobile = "images/logomob.png"
     mobile_height = "26px"
     mobile_width = "26px"
-    desktop = "static/logo1.png"
+    desktop = "images/logo1.png"
     desktop_height = "300m"
     desktop_width = "25m"
     alt = "Physio Stirixis"
