@@ -5,8 +5,8 @@ draft: false
 weight: 1
 heroHeading: 'Kinesiotaping'
 heroSubHeading: 'Είναι μία μέθοδος θεραπευτικής περίδεσης.'
-heroBackground: 'work/work1.jpg'
-thumbnail: 'work/work1-thumbnail.jpg'
+heroBackground: 'technics/kin1.jpg'
+thumbnail: 'technics/kin1.jpg'
 images: ['technics/kin1.jpg', 'technics/kin2.jpg', 'technics/kin3.jpg', 'technics/kin4.jpg', 'technics/kin5.jpg', 'technics/kin6.jpg',  'technics/kin7.jpg']
 ---
 

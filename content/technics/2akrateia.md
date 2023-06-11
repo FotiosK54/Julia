@@ -5,8 +5,8 @@ draft: false
 weight: 2
 heroHeading: 'Modern Hospital Design'
 heroSubHeading: 'Designing a new modern hospital wing'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
-thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
+heroBackground: 'technics/akr1.png'
+thumbnail: 'technics/akr1.png'
 images: ['technics/akr1.png', 'technics/akr2.jpg']
 ---
 

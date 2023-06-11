@@ -5,8 +5,8 @@ draft: false
 weight: 6
 heroHeading: 'Modern Hospital Design'
 heroSubHeading: 'ΑΠΟ ΑΘΛΗΣΗ ΠΡΟΒΛΗΜΑΤΑΣ'
-heroBackground: 'https://source.unsplash.com/iqGtaQnk3VM/1600x400'
-thumbnail: 'https://source.unsplash.com/iqGtaQnk3VM/600x400'
+heroBackground: technics/mck1.jpg'
+thumbnail: 'technics/mck1.jpg'
 images: ['technics/mck1.jpg', 'technics/mck2.jpg']
 ---
 
