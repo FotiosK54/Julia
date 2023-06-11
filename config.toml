@@ -1,4 +1,4 @@
-baseURL = "https://www.physiostirixis.gr/"
+baseURL = "https://www.juliaps.netlify.app/"
 languageCode = "en-us"
 title = "Physiostirixis Κέντρο Φυσικοθεραπείας"
 theme = "hugo-hero-theme"
@@ -33,7 +33,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "ΠΑΘΗΣΕΙΣ"
-    url = "/work/"
+    url = "/ailments/"
     weight = 1
 
 [[menu.main]]
@@ -48,13 +48,13 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "ΠΕΛΜΑΤΟΓΡΑΦΟΣ"
-    url = "/about/"
+    url = "/pedalographer/"
     weight = 4
 
 
 [[menu.main]]
     name = "ΘΕΡΑΠΕΙΑ TECAR"
-    url = "/history/"
+    url = "/tecar/"
     weight = 5
 
 [[menu.main]]
