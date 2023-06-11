@@ -1,4 +1,4 @@
-baseURL = "https://www.physiostirixis.gr/"
+baseURL = https://juliaps.netlify.app
 languageCode = "en-us"
 title = "Physiostirixis Κέντρο Φυσικοθεραπείας"
 theme = "hugo-hero-theme"
